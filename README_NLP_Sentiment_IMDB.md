@@ -6,6 +6,9 @@ Text preprocessing and sentiment analysis on IMDB movie reviews. Two lexicon-bas
 **Course:** Willis College — Machine Learning with Python
 **Author:** Ayleen Santander · August 2026
 
+#Sentiment Distribution and Insights
+The full dataset contains 50,000 reviews with extensive text content, labeled by sentiment: Positive, Neutral, and Negative. For this analysis, a random sample of 1,000 rows was selected as a representative subset. A cloned copy of the data was used with the sentiment label held out, so the exploratory analysis would not be biased by knowing the "correct" answer in advance.
+
 \---
 
 ## Dataset
