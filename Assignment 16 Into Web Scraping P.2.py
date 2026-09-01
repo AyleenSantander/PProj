@@ -1,4 +1,4 @@
-# Assignment 16: Introduction to Web Scraping P.2
+Web Scraping
 #Name: Ayleen Santander
 from email.quoprimime import header_decode
 
